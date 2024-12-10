@@ -5,7 +5,7 @@ import Lecture4_interfaces_abstract_classes.BankAccount;
 import java.util.Calendar;
 import java.util.UUID;
 
-public class BaseTransaction implements TransactionInterface { 
+public class BaseTransaction implements TransactionInterface {  
     private double amount;
     private Calendar date;
     private String transactionID;
