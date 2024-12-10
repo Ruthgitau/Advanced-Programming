@@ -1,5 +1,3 @@
-package Assignment_1;
-
 import Lecture4_interfaces_abstract_classes.BankAccount;
 import java.util.Calendar;
 
