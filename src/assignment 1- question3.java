@@ -1,5 +1,3 @@
-package Assignment_1;
-
 public class InsufficientFundsException extends Exception {
     private double amount;
     private double balance;
